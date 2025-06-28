@@ -1,0 +1,12 @@
+nltk==3.8.1
+unstructured[all-docs]
+pillow 
+lxml
+chromadb 
+tiktoken
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+python_dotenv
+tesseract
