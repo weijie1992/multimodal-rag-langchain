@@ -10,3 +10,5 @@ langchain-openai
 langchain-groq
 python_dotenv
 tesseract
+pytesseract
+langfuse
